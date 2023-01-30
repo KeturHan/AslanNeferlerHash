@@ -275,4 +275,4 @@ if opt == '6':
     hj5 = hashlib.sha256()
     hj5.update(hv.encode())
     print(y + '[+] SHA256 --> ' + hj5.hexdigest())
-    print('\n'
+    print('\n')
